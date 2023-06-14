@@ -1,0 +1,34 @@
+﻿@model Secretary
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Secretary</h1>
+
+<br />
+<br />
+<form asp-action="Edit">
+    <div asp-validation-summary="All"></div>
+    <input hidden asp-for="patientId" />
+    <div class="form-group">
+        <label class="col-form-label" asp-for="PatientName"></label>
+        <input class="form-control" asp-for="PatientName" />
+        <span asp-validation-for="PatientName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Birthdate"></label>
+        <input class="form-control" asp-for="Birthdate" />
+        <span asp-validation-for="Birthdate"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="BloodType"></label>
+        <input class="form-control" asp-for="BloodType" />
+        <span asp-validation-for="BloodType"></span>
+    </div>
+
+    <input type="submit" value="Save" class="btn btn-primary" />
+
+    | <a asp-action="Index" cite="btn btn-light">Back To List</a>
+</form>
+
+

@@ -1,0 +1,15 @@
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\bin\Debug\net5.0\Task.BLL.deps.json
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\bin\Debug\net5.0\Task.BLL.dll
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\bin\Debug\net5.0\Task.BLL.pdb
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\bin\Debug\net5.0\Task.DAL.dll
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\bin\Debug\net5.0\Task.DAL.pdb
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\obj\Debug\net5.0\Task.BLL.csproj.AssemblyReference.cache
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\obj\Debug\net5.0\Task.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\obj\Debug\net5.0\Task.BLL.AssemblyInfoInputs.cache
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\obj\Debug\net5.0\Task.BLL.AssemblyInfo.cs
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\obj\Debug\net5.0\Task.BLL.csproj.CoreCompileInputs.cache
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\obj\Debug\net5.0\Task.BLL.csproj.CopyComplete
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\obj\Debug\net5.0\Task.BLL.dll
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\obj\Debug\net5.0\refint\Task.BLL.dll
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\obj\Debug\net5.0\Task.BLL.pdb
+C:\Users\abdeen\source\repos\Task1.solution\Task.BLL\obj\Debug\net5.0\ref\Task.BLL.dll

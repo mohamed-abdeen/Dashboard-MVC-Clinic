@@ -1,0 +1,30 @@
+﻿@model Secretary
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create New Appointment</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label class="col-form-label" asp-for="PatientName"></label>
+        <input  class="form-control" asp-for="PatientName"/>
+        <span asp-validation-for="PatientName"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Birthdate"></label>
+        <input class="form-control" asp-for="Birthdate" />
+        <span asp-validation-for="Birthdate"></span>
+    </div>
+    <div class="form-group">
+        <label class="col-form-label" asp-for="BloodType"></label>
+        <input class="form-control" asp-for="BloodType" />
+        <span asp-validation-for="BloodType"></span>
+    </div>
+
+    <input type="submit" value="submit" class="btn btn-primary" />
+    <a asp-action="Index" class="btn btn-light" >Back To List</a>
+
+
+
+</form>
